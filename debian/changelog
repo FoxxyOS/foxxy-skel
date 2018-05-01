@@ -1,0 +1,133 @@
+foxxy-skel (3.3+foxxy1) testing; urgency=medium
+
+  * Update copyright note in desktop readme.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 19 Mar 2018 15:20:59 +0100
+
+foxxy-skel (3.2+foxxy1) testing; urgency=medium
+
+  * Update copyright note in desktop readme.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 22 Jan 2018 23:28:34 +0100
+
+foxxy-skel (3.1+foxxy0) testing; urgency=medium
+
+  * Update firefox profile for firefox quantum.
+  * Update desktop readme and license notes.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 27 Nov 2017 02:14:35 +0100
+
+foxxy-skel (3.0+foxxy0) testing; urgency=medium
+
+  * Update desktop readme and license notes.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 15 Oct 2017 00:01:48 +0200
+
+foxxy-skel (2.10+foxxy0) testing; urgency=medium
+
+  * Update dconf defaults.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 09 Oct 2017 01:38:16 +0200
+
+foxxy-skel (2.9+foxxy0) testing; urgency=medium
+
+  * Remove that ugly background color in caja.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Fri, 23 Jun 2017 15:13:58 +0200
+
+foxxy-skel (2.8+foxxy3) testing; urgency=medium
+
+  * Hide useless launchers
+    (Closes: https://community.foxxysec.org/viewtopic.php?id=94)
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 23 Feb 2017 23:01:28 +0100
+
+foxxy-skel (2.8+foxxy2) testing; urgency=medium
+
+  * Change new windows position
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 23 Feb 2017 21:55:17 +0100
+
+foxxy-skel (2.8+foxxy1) testing; urgency=medium
+
+  * Remove useless menu applets
+  * Fix layout of right widgets
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 23 Feb 2017 21:39:40 +0100
+
+foxxy-skel (2.8+foxxy0) testing; urgency=medium
+
+  * Import firefox profiles from foxxy-interface-common
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 20 Feb 2017 01:30:31 +0100
+
+foxxy-skel (2.7+foxxy5) testing; urgency=medium
+
+  * Fix hidden menu launchers
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 19 Feb 2017 04:54:50 +0100
+
+foxxy-skel (2.7+foxxy4) testing; urgency=medium
+
+  * Fix dconf compilation instructions
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 19 Feb 2017 04:23:34 +0100
+
+foxxy-skel (2.7+foxxy3) testing; urgency=medium
+
+  * Fix rsync path in postinst
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sat, 18 Feb 2017 02:40:16 +0100
+
+foxxy-skel (2.7+foxxy2) testing; urgency=medium
+
+  * Add rsync as dependency as it is used in postinst
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 16 Feb 2017 16:40:40 +0100
+
+foxxy-skel (2.7+foxxy1) testing; urgency=medium
+
+  * Fix postinst path
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Fri, 03 Feb 2017 03:41:12 +0100
+
+foxxy-skel (2.7+foxxy0) testing; urgency=medium
+
+  * Increment version
+  * Fix minor bugs
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Fri, 03 Feb 2017 02:48:08 +0100
+
+foxxy-skel (2.5+foxxy1) testing; urgency=medium
+
+  * Add dconf-cli to build dependencies
+  * Fix Makefile
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Fri, 03 Feb 2017 02:29:18 +0100
+
+foxxy-skel (2.5+foxxy0) testing; urgency=medium
+
+  * Improve package layout
+  * Improve makefile and postinst
+  * Enable screensaver on dconf
+  * Update some dconf rules
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@foxxysec.org>  Fri, 03 Feb 2017 13:20:23 +1100
+
+foxxy-skel (2.4+foxxy1) testing; urgency=high
+
+  * Disable conffiles
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Wed, 18 May 2016 08:58:29 +0200
+
+foxxy-skel (2.4+foxxy0) testing; urgency=medium
+
+  * Minor fixes
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Wed, 18 May 2016 00:48:01 +0200
+
+foxxy-skel (2.1+foxxy0) testing; urgency=medium
+
+  * Import and debianize old source tree
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Wed, 18 May 2016 00:44:36 +0200

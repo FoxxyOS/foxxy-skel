@@ -1,0 +1,19 @@
+Source: foxxy-skel
+Section: foxxy
+Priority: important
+Maintainer: Foxxy Dev Team <foxxy-devel@lists.foxxysec.org
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>,
+           Lisetta "Sheireen" Ferrero <sheireen@foxxysec.org>
+Standards-Version: 3.9.8
+Build-Depends: debhelper (>= 9), dconf-cli
+Build-Depends-Indep: pkg-config
+Homepage: http://www.foxxysec.org/
+
+Package: foxxy-skel
+Architecture: all
+Depends: xvkbd, dconf-cli, rsync
+Suggests: foxxy-interface
+Replaces: bash
+Section: foxxy
+Description: Foxxy SKEL package
+ this package provides the SKEL default content of users
